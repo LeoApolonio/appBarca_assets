@@ -1,0 +1,186 @@
+[
+    {
+        "nombre": "Wojciech Szczęsny",
+        "dorsal": 25,
+        "posicion": "Portero",
+        "nacionalidad": "Polonia",
+        "edad": 35,
+        "imagenUrl": "https://example.com/szczesny.jpg"
+    },
+    {
+        "nombre": "Joan García",
+        "dorsal": 13,
+        "posicion": "Portero",
+        "nacionalidad": "España",
+        "edad": 24,
+        "imagenUrl": "https://example.com/joan_garcia.jpg"
+    },
+    {
+        "nombre": "Jules Koundé",
+        "dorsal": 23,
+        "posicion": "Defensa",
+        "nacionalidad": "Francia",
+        "edad": 27,
+        "imagenUrl": "https://example.com/kounde.jpg"
+    },
+    {
+        "nombre": "Ronald Araújo",
+        "dorsal": 4,
+        "posicion": "Defensa",
+        "nacionalidad": "Uruguay",
+        "edad": 26,
+        "imagenUrl": "https://example.com/araujo.jpg"
+    },
+    {
+        "nombre": "Pau Cubarsí",
+        "dorsal": 5,
+        "posicion": "Defensa",
+        "nacionalidad": "España",
+        "edad": 18,
+        "imagenUrl": "https://example.com/cubarsi.jpg"
+    },
+    {
+        "nombre": "Andreas Christensen",
+        "dorsal": 15,
+        "posicion": "Defensa",
+        "nacionalidad": "Dinamarca",
+        "edad": 29,
+        "imagenUrl": "https://example.com/christensen.jpg"
+    },
+    {
+        "nombre": "Alejandro Balde",
+        "dorsal": 3,
+        "posicion": "Defensa",
+        "nacionalidad": "España",
+        "edad": 22,
+        "imagenUrl": "https://example.com/balde.jpg"
+    },
+    {
+        "nombre": "Gerard Martín",
+        "dorsal": 18,
+        "posicion": "Defensa",
+        "nacionalidad": "España",
+        "edad": 23,
+        "imagenUrl": "https://example.com/gerard_martin.jpg"
+    },
+    {
+        "nombre": "Eric García",
+        "dorsal": 24,
+        "posicion": "Defensa",
+        "nacionalidad": "España",
+        "edad": 24,
+        "imagenUrl": "https://example.com/eric_garcia.jpg"
+    },
+    {
+        "nombre": "Joao Cancelo",
+        "dorsal": 2,
+        "posicion": "Defensa",
+        "nacionalidad": "Portugal",
+        "edad": 31,
+        "imagenUrl": "https://example.com/cancelo.jpg"
+    },
+    {
+        "nombre": "Gavi",
+        "dorsal": 6,
+        "posicion": "Centrocampista",
+        "nacionalidad": "España",
+        "edad": 21,
+        "imagenUrl": "https://example.com/gavi.jpg"
+    },
+    {
+        "nombre": "Pedri",
+        "dorsal": 8,
+        "posicion": "Centrocampista",
+        "nacionalidad": "España",
+        "edad": 22,
+        "imagenUrl": "https://example.com/pedri.jpg"
+    },
+    {
+        "nombre": "Frenkie de Jong",
+        "dorsal": 21,
+        "posicion": "Centrocampista",
+        "nacionalidad": "Países Bajos",
+        "edad": 28,
+        "imagenUrl": "https://example.com/frenkie_de_jong.jpg"
+    },
+    {
+        "nombre": "Marc Bernal",
+        "dorsal": 22,
+        "posicion": "Centrocampista",
+        "nacionalidad": "España",
+        "edad": 18,
+        "imagenUrl": "https://example.com/marc_bernal.jpg"
+    },
+    {
+        "nombre": "Marc Casadó",
+        "dorsal": 17,
+        "posicion": "Centrocampista",
+        "nacionalidad": "España",
+        "edad": 22,
+        "imagenUrl": "https://example.com/casado.jpg"
+    },
+    {
+        "nombre": "Dani Olmo",
+        "dorsal": 20,
+        "posicion": "Centrocampista",
+        "nacionalidad": "España",
+        "edad": 27,
+        "imagenUrl": "https://example.com/olmo.jpg"
+    },
+    {
+        "nombre": "Fermín López",
+        "dorsal": 16,
+        "posicion": "Centrocampista",
+        "nacionalidad": "España",
+        "edad": 22,
+        "imagenUrl": "https://example.com/fermin.jpg"
+    },
+    {
+        "nombre": "Robert Lewandowski",
+        "dorsal": 9,
+        "posicion": "Delantero",
+        "nacionalidad": "Polonia",
+        "edad": 37,
+        "imagenUrl": "https://example.com/lewandowski.jpg"
+    },
+    {
+        "nombre": "Lamine Yamal",
+        "dorsal": 10,
+        "posicion": "Delantero",
+        "nacionalidad": "España",
+        "edad": 17,
+        "imagenUrl": "https://example.com/lamine_yamal.jpg"
+    },
+    {
+        "nombre": "Raphinha",
+        "dorsal": 11,
+        "posicion": "Delantero",
+        "nacionalidad": "Brasil",
+        "edad": 29,
+        "imagenUrl": "https://example.com/raphinha.jpg"
+    },
+    {
+        "nombre": "Ferran Torres",
+        "dorsal": 7,
+        "posicion": "Delantero",
+        "nacionalidad": "España",
+        "edad": 25,
+        "imagenUrl": "https://example.com/ferran_torres.jpg"
+    },
+    {
+        "nombre": "Marcus Rashford",
+        "dorsal": 14,
+        "posicion": "Delantero",
+        "nacionalidad": "Inglaterra",
+        "edad": 28,
+        "imagenUrl": "https://example.com/rashford.jpg"
+    },
+    {
+        "nombre": "Roony Bardghji",
+        "dorsal": 28,
+        "posicion": "Delantero",
+        "nacionalidad": "Suecia",
+        "edad": 20,
+        "imagenUrl": "https://example.com/bardghji.jpg"
+    }
+]
