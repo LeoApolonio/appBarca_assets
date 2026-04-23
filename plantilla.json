@@ -5,7 +5,7 @@
         "posicion": "Portero",
         "nacionalidad": "Polonia",
         "edad": 35,
-        "imagenUrl": "https://example.com/szczesny.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/szczesny.jpg"
     },
     {
         "nombre": "Joan García",
@@ -13,7 +13,7 @@
         "posicion": "Portero",
         "nacionalidad": "España",
         "edad": 24,
-        "imagenUrl": "https://example.com/joan_garcia.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/joan_garcia.jpg"
     },
     {
         "nombre": "Jules Koundé",
@@ -21,7 +21,7 @@
         "posicion": "Defensa",
         "nacionalidad": "Francia",
         "edad": 27,
-        "imagenUrl": "https://example.com/kounde.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/kounde.jpg"
     },
     {
         "nombre": "Ronald Araújo",
@@ -29,7 +29,7 @@
         "posicion": "Defensa",
         "nacionalidad": "Uruguay",
         "edad": 26,
-        "imagenUrl": "https://example.com/araujo.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/araujo.jpg"
     },
     {
         "nombre": "Pau Cubarsí",
@@ -37,7 +37,7 @@
         "posicion": "Defensa",
         "nacionalidad": "España",
         "edad": 18,
-        "imagenUrl": "https://example.com/cubarsi.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/cubarsi.jpg"
     },
     {
         "nombre": "Andreas Christensen",
@@ -45,7 +45,7 @@
         "posicion": "Defensa",
         "nacionalidad": "Dinamarca",
         "edad": 29,
-        "imagenUrl": "https://example.com/christensen.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/christensen.jpg"
     },
     {
         "nombre": "Alejandro Balde",
@@ -53,7 +53,7 @@
         "posicion": "Defensa",
         "nacionalidad": "España",
         "edad": 22,
-        "imagenUrl": "https://example.com/balde.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/balde.jpg"
     },
     {
         "nombre": "Gerard Martín",
@@ -61,15 +61,7 @@
         "posicion": "Defensa",
         "nacionalidad": "España",
         "edad": 23,
-        "imagenUrl": "https://example.com/gerard_martin.jpg"
-    },
-    {
-        "nombre": "Eric García",
-        "dorsal": 24,
-        "posicion": "Defensa",
-        "nacionalidad": "España",
-        "edad": 24,
-        "imagenUrl": "https://example.com/eric_garcia.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/gerard_martin.jpg"
     },
     {
         "nombre": "Joao Cancelo",
@@ -77,7 +69,15 @@
         "posicion": "Defensa",
         "nacionalidad": "Portugal",
         "edad": 31,
-        "imagenUrl": "https://example.com/cancelo.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/cancelo.jpg"
+    },
+    {
+        "nombre": "Eric García",
+        "dorsal": 24,
+        "posicion": "Defensa",
+        "nacionalidad": "España",
+        "edad": 24,
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/eric_garcia.jpg"
     },
     {
         "nombre": "Gavi",
@@ -85,7 +85,7 @@
         "posicion": "Centrocampista",
         "nacionalidad": "España",
         "edad": 21,
-        "imagenUrl": "https://example.com/gavi.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/gavi.jpg"
     },
     {
         "nombre": "Pedri",
@@ -93,7 +93,7 @@
         "posicion": "Centrocampista",
         "nacionalidad": "España",
         "edad": 22,
-        "imagenUrl": "https://example.com/pedri.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/pedri.jpg"
     },
     {
         "nombre": "Frenkie de Jong",
@@ -101,39 +101,39 @@
         "posicion": "Centrocampista",
         "nacionalidad": "Países Bajos",
         "edad": 28,
-        "imagenUrl": "https://example.com/frenkie_de_jong.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/frenkie_de_jong.jpg"
     },
     {
         "nombre": "Marc Bernal",
-        "dorsal": 22,
-        "posicion": "Centrocampista",
-        "nacionalidad": "España",
-        "edad": 18,
-        "imagenUrl": "https://example.com/marc_bernal.jpg"
-    },
-    {
-        "nombre": "Marc Casadó",
-        "dorsal": 17,
-        "posicion": "Centrocampista",
-        "nacionalidad": "España",
-        "edad": 22,
-        "imagenUrl": "https://example.com/casado.jpg"
-    },
-    {
-        "nombre": "Dani Olmo",
         "dorsal": 20,
         "posicion": "Centrocampista",
         "nacionalidad": "España",
-        "edad": 27,
-        "imagenUrl": "https://example.com/olmo.jpg"
+        "edad": 18,
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/marc_bernal.jpg"
     },
     {
-        "nombre": "Fermín López",
+        "nombre": "Marc Casadó",
         "dorsal": 16,
         "posicion": "Centrocampista",
         "nacionalidad": "España",
         "edad": 22,
-        "imagenUrl": "https://example.com/fermin.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/casado.jpg"
+    },
+    {
+        "nombre": "Dani Olmo",
+        "dorsal": 19,
+        "posicion": "Centrocampista",
+        "nacionalidad": "España",
+        "edad": 27,
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/olmo.jpg"
+    },
+    {
+        "nombre": "Fermín López",
+        "dorsal": 14,
+        "posicion": "Centrocampista",
+        "nacionalidad": "España",
+        "edad": 22,
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/fermin.jpg"
     },
     {
         "nombre": "Robert Lewandowski",
@@ -141,7 +141,7 @@
         "posicion": "Delantero",
         "nacionalidad": "Polonia",
         "edad": 37,
-        "imagenUrl": "https://example.com/lewandowski.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/lewandowski.jpg"
     },
     {
         "nombre": "Lamine Yamal",
@@ -149,7 +149,7 @@
         "posicion": "Delantero",
         "nacionalidad": "España",
         "edad": 17,
-        "imagenUrl": "https://example.com/lamine_yamal.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/lamine_yamal.jpg"
     },
     {
         "nombre": "Raphinha",
@@ -157,7 +157,7 @@
         "posicion": "Delantero",
         "nacionalidad": "Brasil",
         "edad": 29,
-        "imagenUrl": "https://example.com/raphinha.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/raphinha.jpg"
     },
     {
         "nombre": "Ferran Torres",
@@ -165,22 +165,22 @@
         "posicion": "Delantero",
         "nacionalidad": "España",
         "edad": 25,
-        "imagenUrl": "https://example.com/ferran_torres.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/ferran_torres.jpg"
     },
     {
         "nombre": "Marcus Rashford",
-        "dorsal": 14,
+        "dorsal": 17,
         "posicion": "Delantero",
         "nacionalidad": "Inglaterra",
         "edad": 28,
-        "imagenUrl": "https://example.com/rashford.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/rashford.jpg"
     },
     {
         "nombre": "Roony Bardghji",
-        "dorsal": 28,
+        "dorsal": 22,
         "posicion": "Delantero",
         "nacionalidad": "Suecia",
         "edad": 20,
-        "imagenUrl": "https://example.com/bardghji.jpg"
+        "imagenUrl": "https://raw.githubusercontent.com/LeoApolonio/appBarca_assets/main/jugadores/bardghji.jpg"
     }
 ]
